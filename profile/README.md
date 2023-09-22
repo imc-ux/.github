@@ -1,9 +1,15 @@
 # IMC-UX
 
+[![Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)]()
+
 ##  休息一会儿
+
 🍕 []~(￣▽￣)~* 🍹
+
 ##  常用设定
+
 ### GIT用户连接超时的处理方案
+
 > 原文：https://docs.github.com/en/authentication/troubleshooting-ssh/using-ssh-over-the-https-port#enabling-ssh-connections-over-https
 
 1. 跳转到`C:\Users\imc\.ssh` 目录
