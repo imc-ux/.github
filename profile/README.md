@@ -1,6 +1,6 @@
 # IMC-UX
 
-[![Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)]()
+![Banner](https://user-images.githubusercontent.com/12947776/274178530-186b0518-d0ba-47b6-ac6a-7644ccb9d8e5.png)
 
 ##  休息一会儿
 
