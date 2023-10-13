@@ -24,11 +24,11 @@ User git
 
 ### 常见Issue标签
 
-- 💡Feature Request
-- 🐛Bug
-- 🎨Design
-- 🙅🏻‍♀️WON'T DO
-- 📝Documentation
-- ✈️priority: normal
-- 🚀priority: high
+- 💡 Feature Request
+- 🐛 Bug
+- 🎨 Design
+- 🙅🏻‍♀️ WON'T DO
+- 📝 Documentation
+- ✈️ priority: normal
+- 🚀 priority: high
 - ⛔️ can be closed
