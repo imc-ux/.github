@@ -20,5 +20,15 @@ Hostname ssh.github.com
 Port 443
 User git
 ```
+## 备忘一下
 
+### 常见Issue标签
 
+- 💡Feature Request
+- 🐛Bug
+- 💄Design
+- 🙅🏻‍♀️WON'T DO
+- 📝Documentation
+- ✈️priority: normal
+- 🚀priority: high
+- ⛔️ can be closed
