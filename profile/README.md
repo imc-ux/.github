@@ -26,7 +26,7 @@ User git
 
 - 💡Feature Request
 - 🐛Bug
-- 💄Design
+- 🎨Design
 - 🙅🏻‍♀️WON'T DO
 - 📝Documentation
 - ✈️priority: normal
